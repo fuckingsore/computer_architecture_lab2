@@ -1,0 +1,4 @@
+/home/anton/Downloads/Second Lab/ninja_build/CMakeFiles/rebuild_cache.dir
+/home/anton/Downloads/Second Lab/ninja_build/CMakeFiles/edit_cache.dir
+/home/anton/Downloads/Second Lab/ninja_build/CMakeFiles/lw2.dir
+/home/anton/Downloads/Second Lab/ninja_build/CMakeFiles/breakfast.dir
