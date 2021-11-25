@@ -1,6 +1,5 @@
-<h1 align="center">Laboratory work #3</h1>
-
-Simple program for simple list manipulation.
+#Laboratory work #3
+#Andrew Zaloga IV-92
 
 ## Usage:
 
